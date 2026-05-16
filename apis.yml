@@ -1,18 +1,51 @@
 aid: manulife
-url: https://raw.githubusercontent.com/api-evangelist/manulife/refs/heads/main/apis.yml
 name: Manulife
-type: Index
+description: >-
+  Manulife Financial Corporation is a Canadian multinational insurance and
+  financial services company providing life insurance, health insurance,
+  wealth and asset management, banking, and group benefits. Manulife operates
+  under the Manulife brand in Canada and Asia and through John Hancock
+  Financial in the United States, with Manulife Bank of Canada and Manulife
+  Investment Management as key subsidiaries. The company is the largest
+  insurance company in Canada and serves millions of customers worldwide.
+  Manulife does not currently publish a public developer API or developer
+  portal; partner integrations are managed through closed channels.
+kind: company
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
+  - Asset Management
+  - Banking
+  - Financial Services
   - Insurance
-  - Financial
   - Life Insurance
   - Wealth Management
-description: 'A Canadian multinational insurance and financial services company providing life insurance, wealth management, and asset management. Operates as John Hancock in the United States and serves millions of customers across Asia, Canada, and the U.S.'
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/manulife/refs/heads/main/apis.yml
 created: '2026-05-05'
-modified: '2026-05-05'
+modified: '2026-05-16'
 specificationVersion: '0.19'
 apis: []
 common:
   - type: Website
     url: https://www.manulife.com/
+  - type: AboutUs
+    url: https://www.manulife.com/en/about.html
+  - type: Canada
+    url: https://www.manulife.ca/
+  - type: JohnHancock
+    url: https://www.johnhancock.com/
+  - type: ManulifeBank
+    url: https://www.manulifebank.ca/
+  - type: ManulifeInvestmentManagement
+    url: https://www.manulifeim.com/
+  - type: InvestorRelations
+    url: https://www.manulife.com/en/investors.html
+  - type: News
+    url: https://www.manulife.com/en/news.html
+  - type: Sustainability
+    url: https://www.manulife.com/en/about/sustainability.html
+  - type: Careers
+    url: https://www.manulife.com/en/careers.html
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
