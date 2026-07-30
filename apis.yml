@@ -11,7 +11,18 @@ description: >-
   Manulife does not currently publish a public developer API or developer
   portal; partner integrations are managed through closed channels.
 kind: company
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/manulife.png
 tags:
   - Asset Management
   - Banking
