@@ -26,6 +26,13 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/manulife.p
 tags:
   - Asset Management
   - Banking
+  - Financial-Services
+  - Insurance
+  - Life Insurance
+  - Wealth Management
+tags_raw:
+  - Asset Management
+  - Banking
   - Financial Services
   - Insurance
   - Life Insurance
