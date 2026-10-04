@@ -37,7 +37,7 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/manulife.p
 tags:
   - Asset Management
   - Banking
-  - Financial-Services
+  - Financial Services
   - Insurance
   - Life Insurance
   - Wealth Management
@@ -48,6 +48,7 @@ tags_raw:
   - Insurance
   - Life Insurance
   - Wealth Management
+  - Financial-Services
 url: >-
   https://raw.githubusercontent.com/api-evangelist/manulife/refs/heads/main/apis.yml
 created: '2026-05-05'
